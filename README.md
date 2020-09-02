@@ -1,10 +1,12 @@
-#Portfolio Optimization Using Monte Carlo Simulation
+# Portfolio Optimization Using Monte Carlo Simulation
 I used 20000 portfolios that are generated randomly for my
 favorite stocks : 
 * Amazon 
 * Google 
 * Tesla
 * Facebook
+
+MonteCarlo is very important in Finance.
 
 Annual Return = Daily Return * 252 Annual Standard Deviation = Daily Standard Deviation * 252
 
